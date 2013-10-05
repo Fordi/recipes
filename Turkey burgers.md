@@ -3,18 +3,13 @@ Turkey burgers
 
 Makes six patties, and can be frozen for up to 1 month. Frozen patties can be cooked straight from freezer.
 
-* 750 g / 1.5 lb ground turkey 
-	* Alternate: 1 kg / 2 lb turkey thighs
-		1. Bone
-		2. Cut into 1 cm / 0.5 inch pieces
-		3. Freeze 35-45 minutes, until very firm
-		4. Pulse in batches of 250g / 0.5 lb in food processor, 18-22 pulses, until pieces are about 0.25 cm / 0.125 inch
-* 8g / 1 tbsp unflavored gelatin
-* 45g / 3 tbsp low-sodium chicken broth
-* 170g / 6 oz white or crimini mushrooms
-* 15g / 1 tbsp soy sauce
-* 0.5g / pinch baking soda
-* 25g / 2 tbsp vegetable oil, plus extra for brushing
+* 384 g ground turkey 
+* 4g unflavored gelatin
+* 23g low-sodium chicken broth
+* 87g white or crimini mushrooms
+* 7.5g soy sauce
+* 0.25g baking soda
+* 12.8g vegetable oil, plus extra for brushing
 * Kosher salt and pepper
 
 1. Sprinkle gelatin over chicken broth in small bowl and let sit until gelatin softens, about 5 minutes. 
