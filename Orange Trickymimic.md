@@ -1,13 +1,8 @@
 Orange Trickymimic
 ==================
-My wife and I make a simple orange triaminic workalike using common drugs, corn syrup and
-mio.  We also keep a bottle of placebo that is prepared similarly, so that we can get the
-placebo effect of calming when his problem isn't that he's stuffy, but insecure.  For the
-placebo, simply leave out the sudafed and benadryl.
+My wife and I make a simple orange triaminic workalike using common drugs, corn syrup and mio.  We also keep a bottle of placebo that is prepared similarly, so that we can get the placebo effect of calming when his problem isn't that he's stuffy, but insecure.  For the placebo, simply leave out the sudafed and benadryl.
 
-This makes a syrup that should be given as 1.25ml/10 lbs (1 tsp/40 lbs), with a dosage of
-0.35 mg/lb pseudoepinephrine, and 0.4 mg/lb diphenhydramine, which are consistent with
-FDA dosage recommendations for these drugs.
+This makes a syrup that should be given as 1.25ml/10 lbs (1 tsp/40 lbs), with a dosage of 0.35 mg/lb pseudoepinephrine, and 0.4 mg/lb diphenhydramine, which are consistent with FDA dosage recommendations for these drugs.
 
 Ingredients
 -----------
