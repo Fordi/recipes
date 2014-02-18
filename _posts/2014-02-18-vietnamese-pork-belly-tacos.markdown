@@ -1,4 +1,4 @@
----
+ï»¿---
 title:  "Vietnamese pork belly tacos"
 layout: post
 date:   2014-02-18 18:14:21
@@ -10,7 +10,7 @@ Vietnamese Pork belly Tacos
 Caramel sauce
 -------------
 * 1 cup sugar
-* ¼ cup water 
+* Â¼ cup water 
 * 1 cinnamon stick
 * 2 whole star anise
 
@@ -18,7 +18,7 @@ Caramel sauce
 * 1 tbsp soy sauce
 * 2 tbsp fresh lime juice
 * 4 tbsp rice vinegar
-* ½ tsp white pepper
+* Â½ tsp white pepper
 
 * 2 large shallots, chopped
 * 1 scallion, thinly sliced
@@ -45,7 +45,7 @@ Sticky pork belly
 > * Trickle with a little sesame oil and press in pepper 
 > * Place in the oven, then cook for 1 hr. 
 > * Remove from the oven and baste with the juices. 
-> * Continue to cook for a further 1½ hrs, basting every 20 mins.
+> * Continue to cook for a further 1Â½ hrs, basting every 20 mins.
 > * Put sliced red peppers in the roasting tin under the pork. 
 > * Brush the caramel sauce over the pork, then increase the oven to 350F 
 > * Cook for a further 30-40 mins, basting occasionally, until caramelised with a rich, golden glaze over the pork. 

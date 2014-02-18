@@ -1,4 +1,4 @@
----
+ï»¿---
 title:  "Indian-spiced pork with raita"
 layout: post
 date:   2014-02-18 18:14:21
@@ -28,9 +28,9 @@ Preparation
 -----------
 
 6. Squeeze moisture from cucumber.
-1. Preheat oven to 425°. 
+1. Preheat oven to 425Â°. 
 2. Combine coriander seeds, cumin seeds, fennel seeds, 1/4 teaspoon salt, and black pepper in a spice grinder, and process until finely ground. 
 3. Brush canola oil over pork tenderloin. Rub with spice mixture. Place pork on a roasting rack in pan; let stand at room temperature 30 minutes. 
-4. Roast pork at 425° for 15 minutes or until a probe thermometer registers 145° F. 
+4. Roast pork at 425Â° for 15 minutes or until a probe thermometer registers 145Â° F. 
 5. Combine cucumber, yogurt, lemon rind, 1/4 teaspoon salt, ground red pepper, and minced garlic.
 6. Let stand for 5 minutes; slice and serve with cucumber dressing.

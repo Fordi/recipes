@@ -1,4 +1,4 @@
----
+﻿---
 title:  "Disaster area"
 layout: post
 date:   2014-02-18 18:14:21
@@ -23,7 +23,7 @@ In a shaker, add 1 part rye whiskey
 
 > _Pour into it one measure of water from the seas of Santraginus V_
 
-Add 1 part crem� de violet
+Add 1 part cremé de violet
 
 > _Allow three cubes of Arcturan Mega-gin to melt into the mixture - it must be properly iced or the benzene is lost_
 
