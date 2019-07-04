@@ -66,5 +66,5 @@ On G+, one person stated that they do not own a microwave.  As such, here's a ve
 * Cook for one minute
 * Remove pot from heat.  With wooden spoon just under / next to yolk, carefully pour water into sink.  You'll have to use the spoon to carefully detach the yolk from the pot's bottom.
 
-[Breakfast1]: https://lh4.googleusercontent.com/-6ytEMvtKE9w/TsZzGPeZHpI/AAAAAAAAAUs/jeEke0TfaV8/h301/IMG_20111118_100016.jpg
-[Breakfast2]: https://lh3.googleusercontent.com/-8be3HhTZm8Y/TskmJgZv1bI/AAAAAAAAAV0/w3_u6ub_Das/h301/IMG_20111120_104156.jpg
+[Breakfast1]: assets/Breakfast2.jpg
+[Breakfast2]: assets/Breakfast2.jpg
