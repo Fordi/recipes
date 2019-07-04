@@ -11,7 +11,7 @@ Ingredients
 * 1/4 teaspoon black pepper
 * 1 tablespoon canola oil
 * 1 (1-pound) pork tenderloin, trimmed
-* 1 cup grated English cucumber
+* 1 cup grated cucumber
 * 2/3 cup plain 2% Greek yogurt
 * 1 1/2 teaspoons grated lemon rind
 * 1/4 teaspoon salt
