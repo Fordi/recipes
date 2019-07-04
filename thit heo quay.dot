@@ -1,0 +1,74 @@
+digraph g {
+  node [shape="rectangle"]
+  PB [label="600-700g pork belly", rank="1"]
+  V [label="2 tbsp vodka", rank="1"]
+  S1 [label="1 tsp salt", rank="1"]
+  C1 [label="Combine"]
+  V -> C1
+  S1 -> C1
+  C2 [label="Rub"]
+  PB -> C2
+  C1 -> C2
+  W [label="Wash and pat dry"]
+  C2 -> W
+  SQ [ label="Square up"]
+  W -> SQ
+  SC [label="Score meat side up to fat at 2\" intervals"]
+  SQ -> SC
+  S2 [label="1 tsp salt", rank="1"]
+  FS [label="1/2 tsp 5-spice powder", rank="1"]
+  CL [label="2 tsp Cinnamon liquor", rank="1"]
+  subgraph CLrec {
+    shape="rectangle"
+    label="Cinnamon liquor"
+    VK [label="750 ml vodka"]
+    CS [label="1 Saigon cinnamon stick"]
+    SA [label="7 large Star anise"]
+    FEN [label="1/2 tsp Fennel seed"]
+    CLV [label="1/2 tsp cloves"]
+    PL [label="1 small orange peel"]
+    SA -> Toast
+    CS -> Toast
+    FEN -> Toast
+    CLV -> Toast
+    PL -> Toast
+    Rest [label="let steep at least 10 days"]
+    Toast -> Rest
+    VK -> Rest
+  }
+  Rest -> CL
+
+  C3 [label="Combine"]
+  S2 -> C3
+  FS -> C3
+  CL -> C3
+  C4 [label="Coat"]
+  C3 -> C4
+  SC -> C4
+  Oven -> Preheat1
+  Preheat1 [label="Preheat to 350 F"]
+  S3 [label="2/3 cup salt", rank="1"]
+  Rad [label="Radish", rank="1"]
+  Chop [label="Slice into 1/4\" to 1/2\" medallions"]
+  Rad -> Chop
+  Chop -> Dish
+  Dish [label="Place in baking dish with rack, level with radish"]
+  C4 -> Dish
+  Salt [label="Cover skin with salt"]
+  Dish -> Salt
+  S3 -> Salt
+  Preheat1 -> Bake
+  Bake [label="Bake at 350 for 30 minutes"]
+  Salt -> Bake
+  Peel [label="Peel off skin"]
+  Pierce [label="Pierce fat with skewer, re-level if necessary"]
+  Water [label="Fill water to top of radishes"]
+  Broil [label="Broil at 450 for 20-30 minutes"]
+  Cut [label="Finish cuts through fat, and cut into 1/2\" medallions"]
+  Bake -> Peel
+  Peel -> Pierce
+  Chop -> Pierce
+  Pierce -> Water
+  Water -> Broil
+  Broil -> Cut
+}
