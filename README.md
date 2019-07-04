@@ -16,7 +16,7 @@
 * [Sriracha lime dry rub](Sriracha%20lime%20dry%20rub.md) - So good on ribs.
 * [Super Mushrooms](Super%20Mushrooms.md) - Edible, but kinda bland.  Basically a tragic failure.
 * [Teriyaki sauce](Teriyaki%20sauce.md) - Sometimes, I like to do it myself.
-* [Thịt heo quay (Vietnamese roast pork belly)](Thịt%20heo%20quay%20(Vietnamese%20roast%20pork%20belly%29.svg) - Complex enough I needed a flow chart, but ___SO___ good.
+* [Thịt heo quay (Vietnamese roast pork belly)](Thịt%20heo%20quay%20%28Vietnamese%20roast%20pork%20belly%29.svg) - Complex enough I needed a flow chart, but ___SO___ good.
 * [Turkey burgers](Turkey%20burgers.md) - How to make delicious turkey burgers that aren't grainy and dry
 * [Venison Sliders](Venison%20Sliders.md) - Samesies, but for venison
 * [Vietnamese pork belly tacos](Vietnamese%20pork%20belly%20tacos.md) - WIP; trying to replicate something amazing
