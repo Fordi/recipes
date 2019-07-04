@@ -16,7 +16,7 @@ Ingredients
 * 1 t celery seed
 * 1 t aleppo pepper flake
 
-# Dry spices
+### Dry spices
 
 * 1/2 T salt
 * 1/2 T sweet paprika
