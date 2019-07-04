@@ -25,6 +25,6 @@ Preparation
 2. Preheat oven to 425° 
 3. Combine coriander seeds, cumin seeds, fennel seeds, 1/4 teaspoon salt, and black pepper in a spice grinder, and process until finely ground.
 4. Brush canola oil over pork tenderloin. Rub with spice mixture. Place pork on a roasting rack in pan; let stand at room temperature 30 minutes.
-5. Roast pork at 425� for 15 minutes or until a probe thermometer registers 145� F.
+5. Roast pork at 425° for 15 minutes or until a probe thermometer registers 145° F.
 6. Combine cucumber, yogurt, lemon rind, 1/4 teaspoon salt, ground red pepper, and minced garlic.
 7. Let stand for 5 minutes; slice and serve with cucumber dressing.
