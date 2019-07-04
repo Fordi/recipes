@@ -1,12 +1,12 @@
 
 * [Alien beans - Oegyein Kong (외계인 콩)](Alien%20beans.md) - Korean-style side with a twist
 * [Cheez](Cheez.md) - Meta-recipe for velveeta-textured food-unit made from real cheese.
-* [Dark chocolate syrup](Dark chocolate syrup.md) - For the kid with adult tastes, or the adult with nostalgia
-* [Dark hot cocoa](Dark hot cocoa.md) - DIY hot cocoa the way I like it
-* [Disaster area](Disaster area.md) - A terran riff on the Pan-Galactic Gargle Blaster
-* [Flank steak and bacon sliders](Flank steak and bacon sliders.md) - ![Dear god...](assets/homer-drool.png)
-* [Indian-spiced pork with Raita](Indian-spiced pork with Raita.md) - Pretty straightforward implementation
-* [Marie's Clams and Pasta](Marie's Clams and Pasta.md) - My mom's recipe; here for pure nostalgia
+* [Dark chocolate syrup](Dark%20chocolate%20syrup.md) - For the kid with adult tastes, or the adult with nostalgia
+* [Dark hot cocoa](Dark%20hot%20cocoa.md) - DIY hot cocoa the way I like it
+* [Disaster area](Disaster%20area.md) - A terran riff on the Pan-Galactic Gargle Blaster
+* [Flank steak and bacon sliders](Flank%20steak%20and%20bacon%20sliders.md) - ![Dear god...](assets/homer-drool.png)
+* [Indian-spiced pork with Raita](Indian-spiced%20pork%%20Raita.md) - Pretty straightforward implementation
+* [Marie's Clams and Pasta](Marie's%20Clams%20and%20Pasta.md) - My mom's recipe; here for pure nostalgia
 * [Marie's Clams Casino](Marie's Clams Casino.md) - Also my mom's.  Pretty excellent.  Like a crabcake, but in a shell, and chewier.
 * [Multicream](Multicream.md) - Lower caloric value coffee additive
 * [Orange Trickymimic](Orange Trickymimic.md) - Kid medicine delivery device
