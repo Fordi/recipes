@@ -1,5 +1,5 @@
 
-* [Alien beans - Oegyein Kong (외계인 콩)](Alien beans.md) - Korean-style side with a twist
+* [Alien beans - Oegyein Kong (외계인 콩)](Alien%20beans.md) - Korean-style side with a twist
 * [Cheez](Cheez.md) - Meta-recipe for velveeta-textured food-unit made from real cheese.
 * [Dark chocolate syrup](Dark chocolate syrup.md) - For the kid with adult tastes, or the adult with nostalgia
 * [Dark hot cocoa](Dark hot cocoa.md) - DIY hot cocoa the way I like it
