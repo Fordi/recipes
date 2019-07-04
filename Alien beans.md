@@ -1,6 +1,6 @@
-# Alien beans - Oegye Kong (???)
+# Alien beans - Oegyein Kong (외계인 콩)
 
-Based on the classic korean side dish, Kong Jang (??), this variant adds
+Based on the classic korean side dish, kongjorim (콩조림), this variant adds
 ginger for a little depth, azuki beans for a nutty crunch, and chestnuts
 for a delicious creaminess.
 
