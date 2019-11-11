@@ -5,6 +5,7 @@
 * [Dark hot cocoa](Dark%20hot%20cocoa.md) - DIY hot cocoa the way I like it
 * [Disaster area](Disaster%20area.md) - A terran riff on the Pan-Galactic Gargle Blaster
 * [Flank steak and bacon sliders](Flank%20steak%20and%20bacon%20sliders.md) - ![Dear god...](assets/homer-drool.png)
+* [Fo'RIB](Fo'RIB.md) - My take on a particular fast-food chain's occasional offering
 * [Indian-spiced pork with Raita](Indian-spiced%20pork%%20Raita.md) - Pretty straightforward implementation
 * [Marie's Clams and Pasta](Marie's%20Clams%20and%20Pasta.md) - My mom's recipe; here for pure nostalgia
 * [Marie's Clams Casino](Marie's%20Clams%20Casino.md) - Also my mom's.  Pretty excellent.  Like a crabcake, but in a shell, and chewier.
