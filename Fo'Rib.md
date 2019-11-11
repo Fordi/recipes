@@ -29,4 +29,4 @@ My take on a particular fast food restaurant's occasional offering.
     * 1/2 tsp powdered lime
     * 1/2 tsp kosher salt
 
-[FoRIB]: assets/FoRIB.jpg
+[FoRIB]: assets/FoRIB.svg
