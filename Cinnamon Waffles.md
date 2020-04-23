@@ -2,7 +2,7 @@
 
 1. Combine dry:
 
-    * 240 g Whole wheat AP flour, sifted
+    * 240 g (1 3/4 c) whole wheat AP flour, sifted
     * 4 tsp baking powder
     * 1/2 tsp salt
     * 1 tsp cinnamon
@@ -14,8 +14,8 @@
 
 3. Combine wet:
 
-    * 400 g milk
-    * 125 g butter, melted
+    * 400 g (1 1/2 c) milk
+    * 125 g (1 1/8 c) butter, melted
     * 1 tsp vanilla
     * 2 eggs' yolks
     * 2 tbsp maple syrup
