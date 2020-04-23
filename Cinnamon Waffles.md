@@ -2,14 +2,13 @@
 
 1. Combine dry:
 
-    * 240 g AP flour, sifted
+    * 240 g Whole wheat AP flour, sifted
     * 4 tsp baking powder
     * 1/2 tsp salt
     * 5 g cinnamon
-    * 2.5 g nutmeg
+    * 5 g pumpkin pie spice
 
-
-2. Whip to soft peaks:
+2. Whip to stiff peaks:
 
     * 2 egg whites
 
