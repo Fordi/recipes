@@ -5,8 +5,8 @@
     * 240 g Whole wheat AP flour, sifted
     * 4 tsp baking powder
     * 1/2 tsp salt
-    * 5 g cinnamon
-    * 5 g pumpkin pie spice
+    * 1 tsp cinnamon
+    * 1 tsp pumpkin pie spice
 
 2. Whip to stiff peaks:
 
