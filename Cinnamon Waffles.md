@@ -10,15 +10,15 @@
 
 2. Whip to stiff peaks:
 
-    * 2 egg whites
+    * 2 eggs' whites
 
 3. Combine wet:
 
     * 400 g milk
     * 125 g butter, melted
-    * 5 g vanilla
-    * 2 eggs yolks
-    * 35 g maple syrup
+    * 1 tsp vanilla
+    * 2 eggs' yolks
+    * 2 tbsp maple syrup
 
 4. Add wet to dry, and mix until just combined (lumps are okay, dry spots are not). Let rest five minutes.
 5. Fold in whites
