@@ -20,6 +20,6 @@
     * 2 eggs yolks
     * 35 g maple syrup
 
-4. Add wet to dry, and mix until just combined (a few small lumps are okay). Let rest five minutes.
+4. Add wet to dry, and mix until just combined (lumps are okay, dry spots are not). Let rest five minutes.
 5. Fold in whites
 6. While the batter is resting, preheat your waffle iron.
