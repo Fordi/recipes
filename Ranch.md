@@ -11,7 +11,7 @@
 
 * 1/2 tsp fine salt
 * 1/4 tsp hot mustard
-* 1 pinch sugar
+* 1 pinch white sugar
 * 1/2 tsp dry parsley
 * 1 tsp dry dill weed
 * 1/2 tsp dry chives
@@ -49,3 +49,13 @@
 * 1/2 c buttermilk
 
 1. Combine emulsion, yogurt, and buttermilk and whisk until homogenous
+
+#### Substitutions
+
+* Lemon juice <-> lime juice
+* Milk <-> buttermilk
+* Sour creme <-> yogurt
+* garlic powder <-> minced fresh garlic simmered in the oil until golden
+    * filter the oil, keep and crush the solids with the rest of the seasonings
+    * allow oil to cool before emulsifying
+* turbinado sugar <-> demerrara sugar <-> white sugar
