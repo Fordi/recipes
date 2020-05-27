@@ -1,4 +1,4 @@
-# DIY Ranch Dressing
+# From-scratch Ranch Dressing
 
 ### Equipment
 
