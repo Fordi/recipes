@@ -59,3 +59,4 @@
     * filter the oil, keep and crush the solids with the rest of the seasonings
     * allow oil to cool before emulsifying
 * turbinado sugar <-> demerrara sugar <-> white sugar
+* cider vinegar <-> wine vinegar <-> white vinegar
