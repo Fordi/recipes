@@ -9,7 +9,7 @@
 
 ### Seasoning
 
-* 1/2 tsp fine salt
+* 1/2 tsp salt (use whatever, but make sure it gets crushed fine)
 * 1/4 tsp hot mustard
 * 1 pinch white sugar
 * 1/2 tsp dry parsley
