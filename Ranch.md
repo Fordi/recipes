@@ -21,7 +21,7 @@
 
 1. Crush to a fine powder in mortar and pestle
 
-("fine" is important here; you need small particles to encourage a good emulsion).  If you stop here, and add 3 tbsp of dry milk powder, 1 tbsp butter solids, and 1/2 tsp each sodium acetate and sodium citrate, you've made a packet of dry ranch dressing.
+("fine" is important here; you need small particles to encourage a good emulsion).  If you stop here, and add 3 tbsp of dry milk powder, 1 tbsp butter solids, and 1/8 tsp each sodium acetate and sodium citrate, you've made a packet of dry ranch dressing.
 
 #### Yolk
 
