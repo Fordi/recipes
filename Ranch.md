@@ -43,6 +43,13 @@
 
 1. Set aside in rammekin
 
+### Dairy
+
+* 1/2 c plain yogurt
+* 1/2 c buttermilk
+
+1. Whisk until homogenous and set aside
+
 ### Emulsion
 
 This is basically a recipe for mayonnaise.
@@ -62,10 +69,9 @@ This is basically a recipe for mayonnaise.
 ### Ranch
 
 * Emulsion
-* 1/2 c plain yogurt
-* 1/2 c buttermilk
+* Dairy
 
-1. Combine emulsion, yogurt, and buttermilk and whisk until homogenous
+1. Combine emulsion, and dairy, and whisk until homogenous
 
 #### Substitutions
 
@@ -82,7 +88,7 @@ This is basically a recipe for mayonnaise.
 
 Seasoning is flexible, but dill, onion and chives are necessary for it to be "ranch".
 
-Don't mess too much with the salt level; you'll mess up the emulsion.  That said, if the emulsion breaks, whisking in the yogurt and milk will help to restore it if you act quickly.
+Don't mess too much with the salt level; you'll mess up the emulsion.  That said, if the emulsion breaks, whisking in the dairy will help to restore it if you act quickly.
 
 If you drop the dill, onion and chives, double the garlic, add oregano, thyme, basil, and rosemary, drop the yogurt, and go with lemon juice, milk and balsamic vinegar, you've got a pretty good creamy italian dressing.
 
