@@ -3,7 +3,7 @@
 ### Equipment
 
 * Mixing bowl
-* 1 rammekin
+* rammekins
 * Mortar and pestle
 * Whisk
 
