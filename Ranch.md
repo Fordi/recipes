@@ -61,4 +61,4 @@
 * turbinado sugar <-> demerrara sugar <-> white sugar
 * cider vinegar <-> wine vinegar <-> white vinegar
 
-Seasoning is flexible, but dill, onion and chives are necessary.  Don't mess too much with the salt level.
+Seasoning is flexible, but dill, onion and chives are necessary.  Don't mess too much with the salt level; you'll mess up the emulsion.
