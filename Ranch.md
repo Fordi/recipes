@@ -85,3 +85,5 @@ Seasoning is flexible, but dill, onion and chives are necessary for it to be "ra
 Don't mess too much with the salt level; you'll mess up the emulsion.
 
 If you drop the dill, onion and chives, double the garlic, add oregano, thyme, basil, and rosemary, drop the yogurt, and go with lemon juice, milk and balsamic vinegar, you've got a pretty good creamy italian dressing.
+
+Add cumin and swap out the vinegar for your favorite hot sauce and - well, I don't know what you'd call it, but it'd be pretty amazing wing dip.
