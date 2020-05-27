@@ -71,7 +71,7 @@ This is basically a recipe for mayonnaise.
 * Emulsion
 * Dairy
 
-1. Combine emulsion, and dairy, and whisk until homogenous
+1. Combine emulsion and dairy, and whisk until homogenous
 
 #### Substitutions
 
