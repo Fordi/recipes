@@ -80,4 +80,4 @@ This is basically a recipe for mayonnaise.
 * extra virgin olive oil <-> whatever oil you prefer
     * Some consider EVOO to be too bitter for this application.  A favored choice here is also safflower oil, but I consider that too bland for the seasonings we pile on top.  YMMV.  Whatever you pick, it should be liquid at room temperature.  Coconut oil will make the texture _weird_.
 
-Seasoning is flexible, but dill, onion and chives are necessary.  Don't mess too much with the salt level; you'll mess up the emulsion.  If you drop the dill, onion and chives, double the garlic and vinegar, and add oregano, thyme, basil, and rosemary, you've got a pretty good creamy italian dressing.
+Seasoning is flexible, but dill, onion and chives are necessary.  Don't mess too much with the salt level; you'll mess up the emulsion.  If you drop the dill, onion and chives, double the garlic and vinegar, add oregano, thyme, basil, and rosemary, drop the yogurt, and go with lemon juice + milk, you've got a pretty good creamy italian dressing.
