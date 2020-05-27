@@ -7,13 +7,6 @@
 * Mortar and pestle
 * Whisk
 
-#### Yolk
-
-* 1 egg
-
-1. Run under room-temperature water for about 2 minutes
-2. Crack egg and separate yolk and whites into rammekins
-
 ### Seasoning
 
 * 1/2 tsp kosher salt
@@ -28,7 +21,14 @@
 
 1. Crush to a fine powder in mortar and pestle
 
-("fine" is important here; you need small particles to encourage a good emulsion)
+("fine" is important here; you need small particles to encourage a good emulsion).  If you stop here, and add 4 tbsp of dry milk powder, you've made a packet of dry ranch dressing.
+
+#### Yolk
+
+* 1 egg
+
+1. Run under room-temperature water for about 2 minutes
+2. Crack egg and separate yolk and whites into rammekins
 
 ### Acid
 
