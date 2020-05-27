@@ -76,6 +76,6 @@
 * turbinado sugar <-> demerrara sugar <-> white sugar
 * cider vinegar <-> wine vinegar <-> white vinegar
 * extra virgin olive oil <-> whatever oil you prefer
-    * Some consider EVOO to be too bitter for this application.  A favored choice here is also safflower oil, but I consider that too bland for the seasonings we pile on top.  YMMV.
+    * Some consider EVOO to be too bitter for this application.  A favored choice here is also safflower oil, but I consider that too bland for the seasonings we pile on top.  YMMV.  Whatever you pick, it should be liquid at room temperature.  Coconut oil will make the texture _weird_.
 
 Seasoning is flexible, but dill, onion and chives are necessary.  Don't mess too much with the salt level; you'll mess up the emulsion.
