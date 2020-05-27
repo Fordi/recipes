@@ -45,6 +45,8 @@
 
 ### Emulsion
 
+This is basically a recipe for mayonnaise.
+
 * Yolk
 * Seasoning
 * Acid
