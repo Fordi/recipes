@@ -21,7 +21,7 @@
 
 1. Crush to a fine powder in mortar and pestle
 
-("fine" is important here; you need small particles to encourage a good emulsion).  If you stop here, and add 4 tbsp of dry milk powder, you've made a packet of dry ranch dressing.
+("fine" is important here; you need small particles to encourage a good emulsion).  If you stop here, and add 3 tbsp of dry milk powder, and 1 tbsp butter solids, you've made a packet of dry ranch dressing.
 
 #### Yolk
 
