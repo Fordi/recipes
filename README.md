@@ -23,4 +23,4 @@
 * [Vietnamese pork belly tacos](Vietnamese%20pork%20belly%20tacos.md) - WIP; trying to replicate something amazing
 * [Warren's Yuzu Ginger Dream](Warren's%20Yuzu%20Ginger%20Dream.md) - Ginger soda I developed for a party.  Blisteringly gingery.
 * [Whiskey cream sauce](Whiskey%20cream%20sauce.md) - Amazing sauce for chicken or fish.
-* [Slayer's Blood](Slayer%27s%20Blood.md] - Halloween cocktail
+* [Slayer's Blood](Slayer%27s%20Blood.md) - Halloween cocktail
