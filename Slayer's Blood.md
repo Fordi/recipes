@@ -8,10 +8,10 @@ Slayer's Blood
 * 1/4 c Corn Syrup
 * Red food coloring
 
-* Heat in a nonstick pan on medium-high.
-* When it reaches 220 F, reserve 1 tbsp for each drink.
-* Continue heating until it reaches 300 F on a candy thermometer.
-* Rim glasses while hot, and set on parchment, right-side-up, and let cool.
+1. Heat in a nonstick pan on medium-high.
+2. When it reaches 220 F, reserve 1 tbsp for each drink.
+3. Continue heating until it reaches 300 F on a candy thermometer.
+4. Rim glasses while hot, and set on parchment, right-side-up, and let cool.
 
 ## Drink
 
