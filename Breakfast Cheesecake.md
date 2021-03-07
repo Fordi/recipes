@@ -16,10 +16,10 @@ Crust
 
 ### Directions
 
-1. Preheat oven to 350 °F / 180 °C
+1. Preheat oven to 350 °F / 176 °C
 2. Mix crust ingredients
 3. Evenly press into 9" round spring-form pan
-4. Bake @ 350 °F / 180 °C for 9 minutes, then remove and cool.
+4. Bake @ 350 °F / 176 °C for 9 minutes, then remove and cool.
 5. Turn oven down to 325 °F / 165 °C
 
 Filling
@@ -61,7 +61,7 @@ Compote
 ### Ingredients
 
 * 1 1/2 cup (350 ml) frozen berries of choice
-* 1/8 cup (30 ml) lemon juice (about 2/3 of a lemon)
+* 1/8 cup (30 ml) lemon juice (juice of about 2/3 of a lemon)
 * 1/2 cup (100 g) sugar
 
 ### Directions
