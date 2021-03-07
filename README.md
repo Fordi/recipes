@@ -13,7 +13,7 @@
 * [Multicream](Multicream.md) - Lower caloric value coffee additive
 * [Orange Trickymimic](Orange%20Trickymimic.md) - Kid medicine delivery device
 * [Pancakes](Pancakes.md) - Nothing special; I just can never remember how to make 'em.
-* [Poached Yolk](PoachedvYolk.md) - Successful experiment to get _just_ the best part of a poached / soft-boiled egg.
+* [Poached Yolk](Poached%20Yolk.md) - Successful experiment to get _just_ the best part of a poached / soft-boiled egg.
 * [Smoked onion relish](Smoked%20onion%20relish.md) - WIP: Smoky, complex onion relish for dogs and burgers
 * [Sriracha lime dry rub](Sriracha%20lime%20dry%20rub.md) - So good on ribs.
 * [Super Mushrooms](Super%20Mushrooms.md) - Edible, but kinda bland.  Basically a tragic failure.
