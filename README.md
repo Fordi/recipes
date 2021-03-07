@@ -16,7 +16,6 @@
 * [Poached Yolk](Poached%20Yolk.md) - Successful experiment to get _just_ the best part of a poached / soft-boiled egg.
 * [Smoked onion relish](Smoked%20onion%20relish.md) - WIP: Smoky, complex onion relish for dogs and burgers
 * [Sriracha lime dry rub](Sriracha%20lime%20dry%20rub.md) - So good on ribs.
-* [Super Mushrooms](Super%20Mushrooms.md) - Edible, but kinda bland.  Basically a tragic failure.
 * [Teriyaki sauce](Teriyaki%20sauce.md) - Sometimes, I like to do it myself.
 * [Thịt heo quay (Vietnamese roast pork belly)](Thịt%20heo%20quay%20%28Vietnamese%20roast%20pork%20belly%29.svg) - Complex enough I needed a flow chart, but ___SO___ good.
 * [Turkey burgers](Turkey%20burgers.md) - How to make delicious turkey burgers that aren't grainy and dry
