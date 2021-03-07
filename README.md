@@ -1,6 +1,6 @@
 
 * [Alien beans - Oegyein Kong (외계인 콩)](Alien%20beans.md) - Korean-style side with a twist
-* [Breakfast Cheesecake](Breakfast%20Cheesecake.md) - A healthy variant of classic cheesecake suitable for breakfast (or second breakfast)
+* [Breakfast Cheesecake](Breakfast%20Cheesecake.md) - A high-protein variant of classic cheesecake suitable for breakfast (or second breakfast)
 * [Cheez](Cheez.md) - Meta-recipe for velveeta-textured food-unit made from real cheese.
 * [Dark chocolate syrup](Dark%20chocolate%20syrup.md) - For the kid with adult tastes, or the adult with nostalgia
 * [Dark hot cocoa](Dark%20hot%20cocoa.md) - DIY hot cocoa the way I like it
