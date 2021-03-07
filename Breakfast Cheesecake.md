@@ -50,7 +50,7 @@ Filling
 3. Whisk in vanilla, eggs, lemon juice, syrup
 4. Pour filling into crust
 5. Fill a glass pan halfway with water, and set in the bottom rack
-6. Bake for 80 minutes at 325 °F, or until center is just slightly "jiggly"
+6. Bake for 80 minutes at 325 °F / 165 °C, or until center is just slightly "jiggly"
 7. Turn off oven and crack the oven door and let rest for 30 minutes
 8. Remove from oven, and let cool on counter 1 hour
 9. Place in refrigerator overnight
