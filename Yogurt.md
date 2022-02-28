@@ -31,13 +31,15 @@ Also, today I made [key lime pie yogurt](#key-lime-pie-yogurt-recipe)[¹] with i
 
 And now, the sweetness... 
 
-# Key Lime Pie Yogurt Recipe
+## Key Lime Pie Yogurt Recipe
 
-## Ingredients
+### Ingredients
 
 * 2 tbsp key lime juice. Or regular lime juice if that's all you have. 
 * 1 can sweetened condensed milk.
 * Some homemade yogurt.
+
+### Directions
 
 1. Take the hand mixer I forgot to tell you that you'll probably need, and blend the key lime juice into the sweetened condensed milk. 
 2. Taste it. Does it taste like key lime pie? Yes it does! 
