@@ -30,22 +30,22 @@ Also, today I made key lime[¹] pie yogurt with it, and that came out perfectly[
 
 -----
 
-[¹]: #¹
+[¹]: #1
 
-#### ¹
+#### 1
 Technically it's just lime, because I used lime juice and not key lime juice, but it hits the 80% mark if you're not a connoisseur of these things.
 
-[²]: #²
+[²]: #2
 
-#### ²
+#### 2
 For "80% there" values of "perfectly."
 
-[³]: #³
+[³]: #3
 
-#### ³
+#### 3
 Shocking the glass jar by putting it in a cold water bath is a good way to crack the jar. I drain some of the hot water from the bath, add some cold water, and then run the sous vide at 110° until it beeps. It takes a couple of hours.
 
-[⁴]: #⁴
+[⁴]: #4
 
-#### ⁴
+#### 4
 You're getting ready to create an environment in which micro-organisms can grow very happily. Don't introduce any germs you do not want to eat later.
