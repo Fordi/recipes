@@ -24,8 +24,8 @@ Also, today I made key lime[¹] pie yogurt with it, and that came out perfectly[
 
 1. Pour the milk in the jars, leaving just enough room at the top for the yogurt starter, which you will NOT add yet. 
 2. Put the lids on, put them in the sous vide bath, and set it for 180°F for an hour. 
-3. When they're done, cool them carefully.³
-4. Add the yogurt starter once the milk in the jars has cooled to around 110° or lower (see note ³ for an easy way to determine that.) Use a VERY CLEAN⁴ spoon or whisk to stir it into the mill really well.
+3. When they're done, cool them carefully.[³]
+4. Add the yogurt starter once the milk in the jars has cooled to around 110° or lower (see note [³] for an easy way to determine that.) Use a VERY CLEAN[⁴] spoon or whisk to stir it into the mill really well.
 5. Set the sous vide for 110°F for 24 hours. Put the lids back on the jars. 
 6. A day later, you'll have about a half-quart of yogurt and a half-quart of whey in each jar. Strain the jars with a yogurt strainer or fine cheesecloth for a couple of hours.
 7. How do you like your yogurt? If you want it clumpy and lumpy and "set," like those fruit-at-the-bottom yogurt cups, just pack it into a container in the fridge as is. If you want it creamy, take a hand mixer to it for a couple of minutes before fridging it.
