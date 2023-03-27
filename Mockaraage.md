@@ -29,5 +29,5 @@ Adapted from "[Super juicy fried chicken](https://cookpad.com/recipe/691327)" by
 
 Note: you can find [Mock duck] at your local asian food market.
 
-[Mock duck]: https://imgur.com/aIqseNW# Included for picture reference
+[Mock duck]: https://imgur.com/aIqseNW
 
