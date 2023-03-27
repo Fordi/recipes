@@ -4,7 +4,7 @@ Adapted from "[Super juicy fried chicken](https://cookpad.com/recipe/691327)" by
 
 | Ingredient    |        Amount |
 |---------------|--------------:|
-| Mock duck     | 400g (2 cans) |
+| [Mock duck]   | 400g (2 cans) |
 | **Marinade**  |               |
 | Grated garlic |       1 clove |
 | Grated ginger |       1 thumb |
@@ -26,3 +26,8 @@ Adapted from "[Super juicy fried chicken](https://cookpad.com/recipe/691327)" by
 5. Fry until lightly browned
 6. Let rest 3 minutes while raising oil to 350F
 7. Fry again until crisp and browned.
+
+Note: you can find [Mock duck] at your local asian food market.
+
+[Mock duck]: https://imgur.com/aIqseNW# Included for picture reference
+
