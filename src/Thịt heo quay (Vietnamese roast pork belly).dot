@@ -67,7 +67,6 @@ digraph g {
   Cut [label="Finish cuts through fat, and cut into 1/2\" medallions"]
   Bake -> Peel
   Peel -> Pierce
-  Chop -> Pierce
   Pierce -> Water
   Water -> Broil
   Broil -> Cut
